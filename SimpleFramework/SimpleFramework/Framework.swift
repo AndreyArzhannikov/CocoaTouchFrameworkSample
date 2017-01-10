@@ -8,6 +8,6 @@
 
 import Foundation
 
-func provideGreeting() -> String {
+public func provideGreeting() -> String {
     return "Hello from Simple Framework!"
 }
