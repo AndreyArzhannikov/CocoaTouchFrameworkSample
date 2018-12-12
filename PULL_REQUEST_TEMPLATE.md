@@ -1,5 +1,4 @@
 ### Jira Issue Link :link:
-<!-- What issue does this fix? -->
 
 Jira: <!-- Jira issue link? -->
 
